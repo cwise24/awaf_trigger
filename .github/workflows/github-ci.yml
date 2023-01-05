@@ -1,10 +1,9 @@
 name: auto-demonstrator-ci
 run-name: ${{ github.actor }} running on trigger
-on: 
-  repository_dispatch
+on: [repository_dispatch]
   
 jobs:
-  lint_and_build:
+  echo_work:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v
