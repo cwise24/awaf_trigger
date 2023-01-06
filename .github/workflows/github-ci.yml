@@ -1,4 +1,4 @@
-name: auto-demonstrator-ci
+name: github-actions-webhook-ci
 run-name: ${{ github.actor }} running on trigger
 on: [repository_dispatch]
   
