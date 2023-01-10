@@ -4,7 +4,7 @@ Create a [PAT](https://docs.github.com/en/authentication/keeping-your-account-an
 
 # awaf_trigger
 
-Test your repo:
+Test your repo, use the below curl command with your PAT to test. Please make certain you have your ci file set up correctly.
 
 ```
  curl -H "authorization: bearer <PAT>" -d "{\"event_type\": \"push\"}" -X POST https://api.github.com/repos/cwise24/awaf_trigger/dispatches
