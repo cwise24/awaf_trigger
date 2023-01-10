@@ -11,3 +11,5 @@ webhook.io [login](https://console.webhooks.io/index.html#/login)
 Create a new bucket:
 
 ![login](imgs/wh1.PNG)
+
+![input](imgs/wh2.PNG)
