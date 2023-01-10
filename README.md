@@ -30,3 +30,4 @@ Create a recipe:
 ![input](imgs/wh5.PNG)
 
 Add this recipe back to your destination 
+![recipe](imgs/wh6.PNG)
