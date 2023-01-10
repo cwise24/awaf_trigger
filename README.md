@@ -12,4 +12,7 @@ Create a new bucket:
 
 ![login](imgs/wh1.PNG)
 
+Create a new input:
+Here you will give the input an alias name and it will create an api endpoint
+
 ![input](imgs/wh2.PNG)
