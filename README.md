@@ -1,4 +1,10 @@
+# Github Personal Access Token (PAT)
+
+Create a [PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
 # awaf_trigger
+
+Test your repo:
 
 ```
  curl -H "authorization: bearer <PAT>" -d "{\"event_type\": \"push\"}" -X POST https://api.github.com/repos/cwise24/awaf_trigger/dispatches
